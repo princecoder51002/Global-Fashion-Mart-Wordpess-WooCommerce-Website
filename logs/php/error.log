@@ -1,0 +1,114 @@
+[05-Oct-2021 08:53:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php on line 175
+[05-Oct-2021 08:53:48 UTC] PHP Stack trace:
+[05-Oct-2021 08:53:48 UTC] PHP   1. {main}() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:0
+[05-Oct-2021 08:53:48 UTC] PHP   2. do_action_ref_array() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:138
+[05-Oct-2021 08:53:48 UTC] PHP   3. WP_Hook->do_action() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/plugin.php:518
+[05-Oct-2021 08:53:48 UTC] PHP   4. WP_Hook->apply_filters() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:327
+[05-Oct-2021 08:53:48 UTC] PHP   5. wp_version_check() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:303
+[05-Oct-2021 08:53:48 UTC] PHP   6. trigger_error() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php:175
+[05-Oct-2021 08:53:51 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php on line 413
+[05-Oct-2021 08:53:51 UTC] PHP Stack trace:
+[05-Oct-2021 08:53:51 UTC] PHP   1. {main}() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:0
+[05-Oct-2021 08:53:51 UTC] PHP   2. do_action_ref_array() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:138
+[05-Oct-2021 08:53:51 UTC] PHP   3. WP_Hook->do_action() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/plugin.php:518
+[05-Oct-2021 08:53:51 UTC] PHP   4. WP_Hook->apply_filters() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:327
+[05-Oct-2021 08:53:51 UTC] PHP   5. wp_update_plugins() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:303
+[05-Oct-2021 08:53:51 UTC] PHP   6. trigger_error() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php:413
+[05-Oct-2021 08:53:51 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php on line 693
+[05-Oct-2021 08:53:51 UTC] PHP Stack trace:
+[05-Oct-2021 08:53:51 UTC] PHP   1. {main}() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:0
+[05-Oct-2021 08:53:51 UTC] PHP   2. do_action_ref_array() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:138
+[05-Oct-2021 08:53:51 UTC] PHP   3. WP_Hook->do_action() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/plugin.php:518
+[05-Oct-2021 08:53:51 UTC] PHP   4. WP_Hook->apply_filters() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:327
+[05-Oct-2021 08:53:51 UTC] PHP   5. wp_update_themes() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:303
+[05-Oct-2021 08:53:51 UTC] PHP   6. trigger_error() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php:693
+[06-Oct-2021 04:27:06 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/prince/Local Sites/global-fashion-mart/app/public/wp-admin/includes/update.php on line 143
+[06-Oct-2021 04:27:06 UTC] PHP Stack trace:
+[06-Oct-2021 04:27:06 UTC] PHP   1. {main}() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:0
+[06-Oct-2021 04:27:06 UTC] PHP   2. do_action_ref_array() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:138
+[06-Oct-2021 04:27:06 UTC] PHP   3. WP_Hook->do_action() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/plugin.php:518
+[06-Oct-2021 04:27:06 UTC] PHP   4. WP_Hook->apply_filters() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:327
+[06-Oct-2021 04:27:06 UTC] PHP   5. WP_Site_Health->wp_cron_scheduled_check() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:303
+[06-Oct-2021 04:27:06 UTC] PHP   6. WP_Site_Health->perform_test() /home/prince/Local Sites/global-fashion-mart/app/public/wp-admin/includes/class-wp-site-health.php:2762
+[06-Oct-2021 04:27:06 UTC] PHP   7. WP_Site_Health->get_test_background_updates() /home/prince/Local Sites/global-fashion-mart/app/public/wp-admin/includes/class-wp-site-health.php:192
+[06-Oct-2021 04:27:06 UTC] PHP   8. WP_Site_Health_Auto_Updates->run_tests() /home/prince/Local Sites/global-fashion-mart/app/public/wp-admin/includes/class-wp-site-health.php:1802
+[06-Oct-2021 04:27:06 UTC] PHP   9. WP_Site_Health_Auto_Updates->test_all_files_writable() /home/prince/Local Sites/global-fashion-mart/app/public/wp-admin/includes/class-wp-site-health-auto-updates.php:37
+[06-Oct-2021 04:27:06 UTC] PHP  10. get_core_checksums() /home/prince/Local Sites/global-fashion-mart/app/public/wp-admin/includes/class-wp-site-health-auto-updates.php:332
+[06-Oct-2021 04:27:06 UTC] PHP  11. trigger_error() /home/prince/Local Sites/global-fashion-mart/app/public/wp-admin/includes/update.php:143
+[06-Oct-2021 04:27:08 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php on line 175
+[06-Oct-2021 04:27:08 UTC] PHP Stack trace:
+[06-Oct-2021 04:27:08 UTC] PHP   1. {main}() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:0
+[06-Oct-2021 04:27:08 UTC] PHP   2. do_action_ref_array() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:138
+[06-Oct-2021 04:27:08 UTC] PHP   3. WP_Hook->do_action() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/plugin.php:518
+[06-Oct-2021 04:27:08 UTC] PHP   4. WP_Hook->apply_filters() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:327
+[06-Oct-2021 04:27:08 UTC] PHP   5. wp_version_check() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:303
+[06-Oct-2021 04:27:08 UTC] PHP   6. trigger_error() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php:175
+[06-Oct-2021 04:27:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php on line 413
+[06-Oct-2021 04:27:09 UTC] PHP Stack trace:
+[06-Oct-2021 04:27:09 UTC] PHP   1. {main}() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:0
+[06-Oct-2021 04:27:09 UTC] PHP   2. do_action_ref_array() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:138
+[06-Oct-2021 04:27:09 UTC] PHP   3. WP_Hook->do_action() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/plugin.php:518
+[06-Oct-2021 04:27:09 UTC] PHP   4. WP_Hook->apply_filters() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:327
+[06-Oct-2021 04:27:09 UTC] PHP   5. wp_update_plugins() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:303
+[06-Oct-2021 04:27:09 UTC] PHP   6. trigger_error() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php:413
+[06-Oct-2021 04:27:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php on line 693
+[06-Oct-2021 04:27:09 UTC] PHP Stack trace:
+[06-Oct-2021 04:27:09 UTC] PHP   1. {main}() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:0
+[06-Oct-2021 04:27:09 UTC] PHP   2. do_action_ref_array() /home/prince/Local Sites/global-fashion-mart/app/public/wp-cron.php:138
+[06-Oct-2021 04:27:09 UTC] PHP   3. WP_Hook->do_action() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/plugin.php:518
+[06-Oct-2021 04:27:09 UTC] PHP   4. WP_Hook->apply_filters() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:327
+[06-Oct-2021 04:27:09 UTC] PHP   5. wp_update_themes() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-hook.php:303
+[06-Oct-2021 04:27:09 UTC] PHP   6. trigger_error() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/update.php:693
+[12-Oct-2021 11:21:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=22041 in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php on line 2056
+[12-Oct-2021 11:53:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=24531 in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php on line 2056
+[12-Oct-2021 11:53:38 UTC] PHP Stack trace:
+[12-Oct-2021 11:53:38 UTC] PHP   1. {main}() /opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Oct-2021 11:53:38 UTC] PHP   2. include() /opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Oct-2021 11:53:38 UTC] PHP   3. include() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Oct-2021 11:53:38 UTC] PHP   4. WP_CLI\bootstrap() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Oct-2021 11:53:38 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:77
+[12-Oct-2021 11:53:38 UTC] PHP   6. WP_CLI\Runner->start() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Oct-2021 11:53:38 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1192
+[12-Oct-2021 11:53:38 UTC] PHP   8. require() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1271
+[12-Oct-2021 11:53:38 UTC] PHP   9. WP_Roles->__construct() /home/prince/Local Sites/global-fashion-mart/app/public/wp-settings.php:503
+[12-Oct-2021 11:53:38 UTC] PHP  10. WP_Roles->for_site() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-roles.php:90
+[12-Oct-2021 11:53:38 UTC] PHP  11. WP_Roles->get_roles_data() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-roles.php:328
+[12-Oct-2021 11:53:38 UTC] PHP  12. get_option() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-roles.php:370
+[12-Oct-2021 11:53:38 UTC] PHP  13. wpdb->get_row() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/option.php:192
+[12-Oct-2021 11:53:38 UTC] PHP  14. wpdb->query() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php:2615
+[12-Oct-2021 11:53:38 UTC] PHP  15. wpdb->_do_query() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php:1945
+[12-Oct-2021 11:53:38 UTC] PHP  16. mysqli_query() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php:2056
+[12-Oct-2021 11:54:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=24772 in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php on line 2056
+[12-Oct-2021 11:54:07 UTC] PHP Stack trace:
+[12-Oct-2021 11:54:07 UTC] PHP   1. {main}() /opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Oct-2021 11:54:07 UTC] PHP   2. include() /opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Oct-2021 11:54:07 UTC] PHP   3. include() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Oct-2021 11:54:07 UTC] PHP   4. WP_CLI\bootstrap() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Oct-2021 11:54:07 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:77
+[12-Oct-2021 11:54:07 UTC] PHP   6. WP_CLI\Runner->start() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Oct-2021 11:54:07 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1192
+[12-Oct-2021 11:54:07 UTC] PHP   8. require() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1271
+[12-Oct-2021 11:54:07 UTC] PHP   9. WP_Roles->__construct() /home/prince/Local Sites/global-fashion-mart/app/public/wp-settings.php:503
+[12-Oct-2021 11:54:07 UTC] PHP  10. WP_Roles->for_site() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-roles.php:90
+[12-Oct-2021 11:54:07 UTC] PHP  11. WP_Roles->get_roles_data() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-roles.php:328
+[12-Oct-2021 11:54:07 UTC] PHP  12. get_option() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/class-wp-roles.php:370
+[12-Oct-2021 11:54:07 UTC] PHP  13. wpdb->get_row() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/option.php:192
+[12-Oct-2021 11:54:07 UTC] PHP  14. wpdb->query() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php:2615
+[12-Oct-2021 11:54:07 UTC] PHP  15. wpdb->_do_query() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php:1945
+[12-Oct-2021 11:54:07 UTC] PHP  16. mysqli_query() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php:2056
+[12-Oct-2021 11:54:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=24775 in /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php on line 2056
+[12-Oct-2021 11:54:07 UTC] PHP Stack trace:
+[12-Oct-2021 11:54:07 UTC] PHP   1. {main}() /opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Oct-2021 11:54:07 UTC] PHP   2. include() /opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Oct-2021 11:54:07 UTC] PHP   3. include() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Oct-2021 11:54:07 UTC] PHP   4. WP_CLI\bootstrap() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Oct-2021 11:54:07 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:77
+[12-Oct-2021 11:54:07 UTC] PHP   6. WP_CLI\Runner->start() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Oct-2021 11:54:07 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1192
+[12-Oct-2021 11:54:07 UTC] PHP   8. require() phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1271
+[12-Oct-2021 11:54:07 UTC] PHP   9. wp_cookie_constants() /home/prince/Local Sites/global-fashion-mart/app/public/wp-settings.php:383
+[12-Oct-2021 11:54:07 UTC] PHP  10. get_option() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/default-constants.php:284
+[12-Oct-2021 11:54:07 UTC] PHP  11. wpdb->get_row() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/option.php:192
+[12-Oct-2021 11:54:07 UTC] PHP  12. wpdb->query() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php:2615
+[12-Oct-2021 11:54:07 UTC] PHP  13. wpdb->_do_query() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php:1945
+[12-Oct-2021 11:54:07 UTC] PHP  14. mysqli_query() /home/prince/Local Sites/global-fashion-mart/app/public/wp-includes/wp-db.php:2056

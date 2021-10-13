@@ -1,0 +1,34 @@
+[04-Oct-2021 21:55:31] NOTICE: fpm is running, pid 11501
+[04-Oct-2021 21:55:31] NOTICE: ready to handle connections
+[04-Oct-2021 22:48:23] NOTICE: Terminating ...
+[04-Oct-2021 22:48:23] NOTICE: exiting, bye-bye!
+[05-Oct-2021 14:22:39] NOTICE: fpm is running, pid 2701
+[05-Oct-2021 14:22:40] NOTICE: ready to handle connections
+[06-Oct-2021 01:35:36] NOTICE: Terminating ...
+[06-Oct-2021 01:35:36] NOTICE: exiting, bye-bye!
+[06-Oct-2021 09:55:30] NOTICE: fpm is running, pid 2172
+[06-Oct-2021 09:55:30] NOTICE: ready to handle connections
+[06-Oct-2021 10:54:59] NOTICE: Terminating ...
+[06-Oct-2021 10:54:59] NOTICE: exiting, bye-bye!
+[09-Oct-2021 23:00:12] NOTICE: fpm is running, pid 2366
+[09-Oct-2021 23:00:12] NOTICE: ready to handle connections
+[10-Oct-2021 01:42:58] NOTICE: Terminating ...
+[10-Oct-2021 01:42:58] NOTICE: exiting, bye-bye!
+[10-Oct-2021 13:48:50] NOTICE: fpm is running, pid 10523
+[10-Oct-2021 13:48:51] NOTICE: ready to handle connections
+[10-Oct-2021 15:09:42] NOTICE: Terminating ...
+[10-Oct-2021 15:09:42] NOTICE: exiting, bye-bye!
+[12-Oct-2021 08:53:31] NOTICE: fpm is running, pid 4565
+[12-Oct-2021 08:53:31] NOTICE: ready to handle connections
+[12-Oct-2021 08:54:27] ERROR: Another FPM instance seems to already listen on /home/prince/.config/Local/run/nXIFlDalr/php/php-fpm.socket
+[12-Oct-2021 08:54:27] ERROR: FPM initialization failed
+[12-Oct-2021 08:54:28] ERROR: Another FPM instance seems to already listen on /home/prince/.config/Local/run/nXIFlDalr/php/php-fpm.socket
+[12-Oct-2021 08:54:28] ERROR: FPM initialization failed
+[12-Oct-2021 08:54:28] ERROR: Another FPM instance seems to already listen on /home/prince/.config/Local/run/nXIFlDalr/php/php-fpm.socket
+[12-Oct-2021 08:54:28] ERROR: FPM initialization failed
+[12-Oct-2021 08:54:29] ERROR: Another FPM instance seems to already listen on /home/prince/.config/Local/run/nXIFlDalr/php/php-fpm.socket
+[12-Oct-2021 08:54:29] ERROR: FPM initialization failed
+[12-Oct-2021 17:24:14] NOTICE: Terminating ...
+[12-Oct-2021 17:24:14] NOTICE: exiting, bye-bye!
+[12-Oct-2021 21:03:42] NOTICE: fpm is running, pid 2290
+[12-Oct-2021 21:03:42] NOTICE: ready to handle connections
